@@ -3,7 +3,7 @@
 
 ## Opis
 
-Repozytorium zawiera analizę minimalnych temperatur dziennych w Melbourne przy użyciu języka R. Dane pochodzą z lat 1981 roku zostały przetworzone oraz przeanalizowane za pomocą różnych technik statystycznych i wizualizacyjnych.
+Repozytorium zawiera analizę minimalnych temperatur dziennych w Melbourne przy użyciu języka R. Dane pochodzą z 1981 roku zostały przetworzone oraz przeanalizowane za pomocą różnych technik statystycznych i wizualizacyjnych.
 
 ## Narzędzia
 
